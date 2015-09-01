@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/menu_refresh"
+        android:orderInCategory="100"
+        android:title="仅下拉刷新"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_load_more"
+        android:orderInCategory="100"
+        android:title="仅加载更多"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_both_refresh_load_more"
+        android:orderInCategory="100"
+        android:title="下拉刷新和加载更多"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_common_recyclerview"
+        android:orderInCategory="100"
+        android:title="都不支持"
+        app:showAsAction="never" />
+</menu>
