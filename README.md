@@ -14,8 +14,9 @@
 - 其他异常视图
  
 ## Todo
-- 多种LayoutManager的支持
-- 目前只支持LinearLayoutManager
+- 多种LayoutManager的支持，目前只支持LinearLayoutManager
+- 添加删除动画的支持
+- ItemClickListener的支持
 
 ## ScreenShot
 ![testdata](http://7xl8mn.com1.z0.glb.clouddn.com/recycler_testdata_view.png)
