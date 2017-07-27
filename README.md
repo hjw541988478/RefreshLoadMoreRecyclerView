@@ -1,7 +1,7 @@
 # RefreshLoadMoreRecyclerView
 实现了下拉刷新和上拉加载的RecyclerView的封装。
 ## Links
-博文：[HarvestRecyclerView-RecyclerView下拉刷新上拉加载的封装](http://www.huangjiawen.me/android/HarvestRecyclerView-RecyclerView%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%E4%B8%8A%E6%8B%89%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%B0%81%E8%A3%85/)   
+博文：[HarvestRecyclerView-RecyclerView下拉刷新上拉加载的封装](http://huangjiawen.cn/android/HarvestRecyclerView-RecyclerView%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%E4%B8%8A%E6%8B%89%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%B0%81%E8%A3%85//)   
 
 JCenter库：``compile 'in.harvestday.library:library:0.2'``
 ## Features
